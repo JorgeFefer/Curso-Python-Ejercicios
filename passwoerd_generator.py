@@ -10,6 +10,7 @@ cantidad=1
 arrastre=""
 
 if (mayusculas=="no" and minusculas=="no" and numeros=="no" and caracteres=="no"):
+    # La logitud por defecto depende de las respuesta de la variable "longitud", deberia estar en otro if
     longitud = 16
     arrastre=string.ascii_letters+string.digits       
 if (mayusculas=="si"):
