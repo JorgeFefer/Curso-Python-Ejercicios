@@ -5,7 +5,7 @@ mayusculas= input ("Desea incluir mayusculas: (si/no): ")
 minusculas= input ("Desea incluir minusculas? (si/no): ")
 numeros= input ("Desea incluir numeros? (si/no): ")
 caracteres= input ("Desea incluir caracteres? (si/no): ")
-longitud=abs(int(input ("Ingrese la longitud deseada: ")))
+longitud=abs(int(input ("Ingrese la longitud hasta 16 caracteres: ")))
 cantidad=1
 arrastre=""
 
